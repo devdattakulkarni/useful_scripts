@@ -7,7 +7,7 @@
 # Docker images are stored in /tmp/registry/images
 # Docker repositories are stored in /tmp/registry/repositories
 
-# How to use?
+# How to test?
 # 1) Create a docker image
 # 2) Tag it (e.g. docker tag <IP>:5042/test-image)
 # 3) Push the image (docker push <IP>:5042/test-image)
