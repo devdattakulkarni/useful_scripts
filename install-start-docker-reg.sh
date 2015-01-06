@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Installs and runs docker registry
+# Tested on: Ubuntu 14.04
+
 # install dependencies
 sudo apt-get update
 sudo apt-get -y install build-essential python-dev libevent-dev python-pip liblzma-dev git libssl-dev python-m2crypto swig
